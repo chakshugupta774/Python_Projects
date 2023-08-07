@@ -1,5 +1,3 @@
-
-
 def collatx(num):
     while(num!=1): 
        if(num%2==0):
@@ -10,5 +8,5 @@ def collatx(num):
           print(num)
 
     
-numx= int(input("ENter number: "))
+numx= int(input("Enter number: "))
 collatx(numx)
